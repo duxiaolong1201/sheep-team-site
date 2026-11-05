@@ -1,0 +1,11 @@
+Hero photograph / 首页羊群照片
+Title: Sheep and Lambs
+Creator: CSIRO
+Source: https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1946_Sheep_and_Lambs.jpg
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+The photograph is cropped responsively in the page layout.
+照片在页面中按屏幕尺寸裁切显示，仅用于研究对象示意，不代表团队试验基地。
+
+PI monogram: typographic placeholder, not a photograph.
+PI 姓名缩写为文字标记，非人物照片。
